@@ -1,18 +1,3 @@
-#------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Ransomware List
-# Expires: 1 day
-# Homepage: https://blocklist.site
-# Help: https://github.com/blocklistproject/list/wiki/
-# License: https://unlicense.org
-# Total number of network filters: 1903
-#------------------------------------[SUPPORT]-------------------------------------
-# You can support by:
-# - reporting false positives
-# - making a donation: https://paypal.me/blocklistproject
-#-------------------------------------[INFO]---------------------------------------
-#
-# Ransomware list
-#------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 25z5g623wpqpdwis.onion.to
 0.0.0.0 27c73bq66y4xqoh7.dorfact.at
 0.0.0.0 27lelchgcvs2wpm7.3lhjyx.top
